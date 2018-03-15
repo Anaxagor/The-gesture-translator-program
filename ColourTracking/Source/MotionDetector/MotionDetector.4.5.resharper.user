@@ -1,0 +1,337 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="8" />
+      <Item value="UnmanagedImage" priority="3" />
+      <Item value="frame" priority="2" />
+      <Item value="videoFrame" priority="6" />
+      <Item value="null" priority="3" />
+      <Item value="return" priority="10" />
+      <Item value="Image" priority="1" />
+      <Item value="_frame" priority="2" />
+      <Item value="Bitmap" priority="5" />
+      <Item value="if" priority="22" />
+      <Item value="_processedImage" priority="2" />
+      <Item value="ColorDetection" priority="1" />
+      <Item value="public" priority="12" />
+      <Item value="Color" priority="11" />
+      <Item value="Point" priority="15" />
+      <Item value="Size" priority="4" />
+      <Item value="bitmap" priority="8" />
+      <Item value="_previousImage" priority="1" />
+      <Item value="class" priority="2" />
+      <Item value="PreviousObjectPositionDescription" priority="0" />
+      <Item value="HSL" priority="2" />
+      <Item value="_image" priority="0" />
+      <Item value="new" priority="24" />
+      <Item value="_newFrame" priority="1" />
+      <Item value="motionFrame" priority="1" />
+      <Item value="SetMotionProcessingAlgorithm" priority="0" />
+      <Item value="ColorFrameComparer" priority="0" />
+      <Item value="for" priority="6" />
+      <Item value="int" priority="23" />
+      <Item value="void" priority="3" />
+      <Item value="_coloredMask" priority="3" />
+      <Item value="i" priority="22" />
+      <Item value="targetObjectColor" priority="0" />
+      <Item value="_targetColor" priority="2" />
+      <Item value="_gradientNeg" priority="0" />
+      <Item value="_gradient" priority="0" />
+      <Item value="j" priority="4" />
+      <Item value="color" priority="0" />
+      <Item value="FastBitmap" priority="3" />
+      <Item value="PixelData" priority="5" />
+      <Item value="IntRange" priority="1" />
+      <Item value="fBitmap" priority="14" />
+      <Item value="Jitter" priority="0" />
+      <Item value="data" priority="13" />
+      <Item value="currFrame" priority="3" />
+      <Item value="unsafe" priority="1" />
+      <Item value="targetColor" priority="5" />
+      <Item value="image" priority="8" />
+      <Item value="this" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="ObjectPosition" priority="2" />
+      <Item value="Position" priority="0" />
+      <Item value="_previousPosition" priority="19" />
+      <Item value="objectCenter" priority="0" />
+      <Item value="objectSize" priority="0" />
+      <Item value="down" priority="24" />
+      <Item value="left" priority="18" />
+      <Item value="right" priority="19" />
+      <Item value="ColorOccurance" priority="2" />
+      <Item value="List&lt;ColorOccurance&gt;" priority="0" />
+      <Item value="listColors" priority="5" />
+      <Item value="bool" priority="6" />
+      <Item value="false" priority="6" />
+      <Item value="colorFound" priority="1" />
+      <Item value="true" priority="8" />
+      <Item value="else" priority="6" />
+      <Item value="oc" priority="1" />
+      <Item value="IComparable" priority="0" />
+      <Item value="Occurance" priority="0" />
+      <Item value="other" priority="0" />
+      <Item value="_initialized" priority="0" />
+      <Item value="newMask" priority="5" />
+      <Item value="up" priority="13" />
+      <Item value="WatchDog" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="bWorkingMatrix" priority="0" />
+      <Item value="matrix" priority="0" />
+      <Item value="out" priority="3" />
+      <Item value="start" priority="2" />
+      <Item value="oUp" priority="0" />
+      <Item value="minPixels" priority="0" />
+      <Item value="oDown" priority="0" />
+      <Item value="Segmentation" priority="0" />
+      <Item value="ref" priority="1" />
+      <Item value="break" priority="2" />
+      <Item value="currUp" priority="0" />
+      <Item value="_colorDetection" priority="7" />
+      <Item value="form" priority="1" />
+      <Item value="currentVideoFrame" priority="0" />
+      <Item value="temp" priority="1" />
+      <Item value="Initialize" priority="0" />
+      <Item value="rectangle" priority="1" />
+      <Item value="Rectangle" priority="5" />
+      <Item value="rect" priority="7" />
+      <Item value="byte" priority="1" />
+      <Item value="lock" priority="1" />
+      <Item value="_motionFrame" priority="2" />
+      <Item value="try" priority="0" />
+      <Item value="deltaX" priority="0" />
+      <Item value="FrameDimension" priority="0" />
+      <Item value="_tempFrame" priority="0" />
+      <Item value="toar" priority="0" />
+      <Item value="firstTime" priority="1" />
+      <Item value="_height" priority="11" />
+      <Item value="_width" priority="12" />
+      <Item value="deltaY" priority="3" />
+      <Item value="_sizeThreshold" priority="1" />
+      <Item value="_targetPDColor" priority="3" />
+      <Item value="fastBitmap" priority="0" />
+      <Item value="GetDominantColorOfTheRegion" priority="1" />
+      <Item value="Up" priority="2" />
+      <Item value="Down" priority="1" />
+      <Item value="Right" priority="1" />
+      <Item value="Left" priority="2" />
+      <Item value="objectCenterLabel" priority="0" />
+      <Item value="colorDifference" priority="0" />
+      <Item value="value" priority="1" />
+      <Item value="DateTime" priority="1" />
+      <Item value="MessageBox" priority="0" />
+      <Item value="MessageBoxButtons" priority="0" />
+      <Item value="MessageBoxIcon" priority="0" />
+      <Item value="objectsBoundaryLabel" priority="0" />
+      <Item value="a" priority="5" />
+      <Item value="_dynamicallyCalculateNewColor" priority="1" />
+      <Item value="regionExtendSize" priority="0" />
+      <Item value="mask" priority="1" />
+      <Item value="y" priority="0" />
+      <Item value="long" priority="0" />
+      <Item value="colorsCount" priority="3" />
+      <Item value="colorR" priority="2" />
+      <Item value="p" priority="0" />
+      <Item value="result" priority="1" />
+      <Item value="comboCalculateNewColor" priority="0" />
+      <Item value="pbTrackedColor" priority="0" />
+      <Item value="gradientFound" priority="1" />
+      <Item value="colorG" priority="0" />
+      <Item value="colorB" priority="0" />
+      <Item value="Invoke" priority="0" />
+      <Item value="ProcessFrame" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AForge.Imaging.UnmanagedImage">
+      <Item value="ToManagedImage" priority="4" />
+      <Item value="ImageData" priority="3" />
+      <Item value="Copy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AForge.Imaging.UnmanagedImage">
+      <Item value="FromManagedImage" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AForge.Imaging.HSL">
+      <Item value="FromRGB" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Black" priority="2" />
+      <Item value="White" priority="0" />
+      <Item value="FromArgb" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Width" priority="9" />
+      <Item value="Height" priority="9" />
+      <Item value="GetPixel" priority="0" />
+      <Item value="SetPixel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Color">
+      <Item value="R" priority="2" />
+      <Item value="G" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Imaging.PixelFormat">
+      <Item value="Format16bppRgb555" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WatchDog.FastBitmap">
+      <Item value="Bitmap" priority="6" />
+      <Item value="LockBitmap" priority="2" />
+      <Item value="GetPixel" priority="1" />
+      <Item value="UnlockBitmap" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WatchDog.PixelData">
+      <Item value="red" priority="0" />
+      <Item value="green" priority="1" />
+      <Item value="blue" priority="1" />
+      <Item value="R" priority="4" />
+      <Item value="G" priority="1" />
+      <Item value="B" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="1" />
+      <Item value="Y" priority="0" />
+      <Item value="ToString" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="0" />
+      <Item value="Add" priority="0" />
+      <Item value="Sort" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WatchDog.ColorDetection+ColorOccurance">
+      <Item value="Color" priority="2" />
+      <Item value="Occurance" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WatchDog.ColorDetection+ObjectPosition">
+      <Item value="Up" priority="12" />
+      <Item value="Down" priority="11" />
+      <Item value="Left" priority="13" />
+      <Item value="Right" priority="12" />
+      <Item value="Center" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@WatchDog.Segmentation">
+      <Item value="FindObjectEdges" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WatchDog.ColorDetection">
+      <Item value="Initialize" priority="0" />
+      <Item value="Reset" priority="0" />
+      <Item value="Center" priority="0" />
+      <Item value="DifferenceThreshold" priority="0" />
+      <Item value="BoundsBox" priority="0" />
+      <Item value="DynamicColorTracking" priority="0" />
+      <Item value="ObjectColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MotionDetectorSample.MotionRegionsForm">
+      <Item value="VideoFrame" priority="0" />
+      <Item value="MotionRectangles" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Rectangle">
+      <Item value="Left" priority="2" />
+      <Item value="Right" priority="3" />
+      <Item value="Top" priority="7" />
+      <Item value="Bottom" priority="6" />
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="Write" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripStatusLabel">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripTextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Warning" priority="0" />
+      <Item value="Error" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripComboBox">
+      <Item value="SelectedItem" priority="0" />
+      <Item value="SelectedIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="BackColor" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:MotionDetector.exe.config" caret="0" fromTop="0" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:MainForm.Designer.cs" caret="25552" fromTop="23" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:Program.cs" caret="462" fromTop="18" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:FastBitmap.cs" caret="0" fromTop="0" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:MotionRegionsForm.cs" caret="0" fromTop="0" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="2925" fromTop="96" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:MainForm.cs" caret="490" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="9385" fromTop="15" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="10091" fromTop="26" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:MainForm.cs" caret="1763" fromTop="21" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="1880" fromTop="18" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="16152" fromTop="62" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="5703" fromTop="30" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:MainForm.cs" caret="8070" fromTop="27" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="5164" fromTop="43" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="16078" fromTop="43" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:MainForm.cs" caret="16271" fromTop="20" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="13939" fromTop="24" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="13939" fromTop="23" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="13916" fromTop="23" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="13688" fromTop="12" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:Program.cs" caret="275" fromTop="12" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="4627" fromTop="162" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="4495" fromTop="79" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="14811" fromTop="26" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="7821" fromTop="62" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="8158" fromTop="64" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="8326" fromTop="68" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="11141" fromTop="23" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="14826" fromTop="31" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="14781" fromTop="31" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="14728" fromTop="32" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="14425" fromTop="26" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:MainForm.cs" caret="240" fromTop="6" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="1442" fromTop="33" />
+      <File id="7170D555-902E-449F-87A6-7EB30C99C53E/f:ColorDetection.cs" caret="11843" fromTop="1" />
+      <File id="9800A224-0BF0-4D5D-A03C-AA7A4842D3B8/f:MainForm.cs" caret="420" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+</Configuration>

@@ -1,0 +1,147 @@
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe.config
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.pdb
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.dll
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.dll
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.dll
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.dll
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.dll
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.dll
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.dll
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.dll
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.pdb
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.xml
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.xml
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.xml
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.xml
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.xml
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.xml
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.xml
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.AboutForm.resources
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MotionRegionsForm.resources
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.VideoCaptureDeviceForm.resources
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MainForm.resources
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.Properties.Resources.resources
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.URLForm.resources
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.exe
+C:\Users\user\Downloads\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.pdb
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.exe
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.pdb
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe.config
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.pdb
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.pdb
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MotionRegionsForm.resources
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.VideoCaptureDeviceForm.resources
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MainForm.resources
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.Properties.Resources.resources
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Aforge.Net\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.exe
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.pdb
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe.config
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.pdb
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.dll
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.pdb
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.xml
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MotionRegionsForm.resources
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.VideoCaptureDeviceForm.resources
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MainForm.resources
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.Properties.Resources.resources
+C:\Users\1\Desktop\Ира\Информатика и программирование\Программы Visual Studio\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csproj.GenerateResource.Cache
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.exe
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.pdb
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe.config
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.pdb
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.dll
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.dll
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.dll
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.dll
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.dll
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.dll
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.dll
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.dll
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.dll
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.pdb
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.xml
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.xml
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.xml
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.xml
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.xml
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.xml
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.xml
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.xml
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csprojResolveAssemblyReference.cache
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MotionRegionsForm.resources
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.VideoCaptureDeviceForm.resources
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MainForm.resources
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.Properties.Resources.resources
+F:\Laptop MSI\Ира\Visual Studio Projects\Университет\КПО\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csproj.GenerateResource.Cache
+D:\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.exe
+D:\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.pdb
+D:\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe.config
+D:\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.exe
+D:\ColourTracking\Source\MotionDetector\bin\Release\MotionDetector.pdb
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.dll
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.dll
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.dll
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.dll
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.dll
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.dll
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.dll
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.dll
+D:\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.dll
+D:\ColourTracking\Source\MotionDetector\bin\Release\WatchDog.pdb
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.xml
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Controls.xml
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Imaging.xml
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Math.xml
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.xml
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.DirectShow.xml
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Video.VFW.xml
+D:\ColourTracking\Source\MotionDetector\bin\Release\AForge.Vision.xml
+D:\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csprojResolveAssemblyReference.cache
+D:\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MotionRegionsForm.resources
+D:\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.VideoCaptureDeviceForm.resources
+D:\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.MainForm.resources
+D:\ColourTracking\Source\MotionDetector\obj\Release\MotionDetectorSample.Properties.Resources.resources
+D:\ColourTracking\Source\MotionDetector\obj\Release\MotionDetector.csproj.GenerateResource.Cache
